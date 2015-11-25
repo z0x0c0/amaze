@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "commonjs",
+		"rootDir": "scripts",
+		"sourceMap": true
+	},
+  	"filesGlob": [
+		"scripts/**/*.ts"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
